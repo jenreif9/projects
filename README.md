@@ -4,7 +4,12 @@ Since the introduction of the No Child Left Behind Act of 2001 there has been an
 
 The standardized test results and the financial data used in this study were downloaded from the Virginia Department of Education website in August 2025. County boundaries used for mapping were downloaded from the University of Virginia in September 2025. The testing data and financial data from the Department of Education were originally in 58 Excel files with a total size of approximately 69.4 MB. Each file contained between 26,000 – 50,000 rows. The geographic data used for mapping was a 17.9 MB GeoJSON file from the University of Virginia that contained detailed county boundaries.
 
-Tools Used: Python for data cleaning and data mapping; AWS Glue DataBrew for data manipulation and exploratory data analysis; MySQL for data queries; R for data visualization and statistical analysis
+Tools Used:  
+Python: data cleaning and data mapping  
+AWS Glue DataBrew: data manipulation and exploratory data analysis   
+MySQL: data queries  
+R: data visualization and statistical analysis
 
-[Full Report](SOL_Report.pdf)
+[Full Report](SOL_Report.pdf)  
+[Research Poster](SOL_ResearchPoster.pdf)
 
