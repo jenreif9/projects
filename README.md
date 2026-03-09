@@ -6,5 +6,5 @@ The standardized test results and the financial data used in this study were dow
 
 Tools Used: Python for data cleaning and data mapping; AWS Glue DataBrew for data manipulation and exploratory data analysis; MySQL for data queries; R for data visualization and statistical analysis
 
-[Full Report](Reif.pdf)
+[Full Report](SOL_Report.pdf)
 
