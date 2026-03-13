@@ -20,5 +20,6 @@ The declines in testing scores were seen across all five test subjects (Figure 2
 While there were drops in student test performance across Virginia's school districts, the amount of decline varied widely across the state when testing resumed in 2021 (Figure 3).
 
 ### Supporting Documentation
-Full Report
-Research Poster
+[Full Report](SOL_Report.pdf)
+
+[Research Poster](SOL_ResearchPoster.pdf)
