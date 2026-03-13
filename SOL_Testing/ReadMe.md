@@ -13,8 +13,7 @@ The standardized test results and the financial data used in this study were dow
 
 ### Results
 There were significant declines in test performance when testing resumed after the pandemic-era shutdowns. The overall SOL passing rate for all subjects and grades studied dropped from approximately 76% before the pandemic closures. When testing resumed, the overall SOL pass rate fell to 56%.  This figure has improved each year since testing resumed, but has not yet returned to the pre-pandemic average (Figure 1).  
-![Column chart showing average pass rate on Virginia SOL exam 2015 - 2024.](https://myoctocat.com/assets/images/base-octocat.svg)
-[Figure 1](/images/Avg_Pass_Rate.png)
+
 Most school districts saw their post-pandemic exam pass rates fall by an average of 20 points when testing resumed in 2021. In subsequent years, many districts have reported improving scores, while still lagging the pre-pandemic averages. This study found slight but statistically significant correlations between the source of school funding (local, state, or federal moeny). It did not find a significant relationship between budget priorities and student test performance.
 
 The declines in testing scores were seen across all five test subjects (Figure 2).
@@ -25,5 +24,6 @@ While there were drops in student test performance across Virginia's school dist
 [Full Report](SOL_Report.pdf)
 
 [Research Poster](SOL_ResearchPoster.pdf)
+
 
 
